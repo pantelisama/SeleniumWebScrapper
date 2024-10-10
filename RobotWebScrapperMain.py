@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 import time
 import pickle
 
-
-######################################################################################################################################## CMC.INI/PERFORMANCE.INI DATA COLLECTION
+## PANTELIS PANTELIDIS ##
+######################################################################################################################################### CMC.INI/PERFORMANCE.INI DATA COLLECTION
 list = []
 variable_name = [] # cmc.ini variable names
 variable_values = [] # cmc.ini variable values
