@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import pickle
 
-## PANTELIS PANTELIDIS ###
+## PANTELIS PANTELIDIS CMC.ini / PERFORMANCE.ini reader and cmc v2 web interface scrapper of settings ###
 ######################################################################################################################################### CMC.INI/PERFORMANCE.INI DATA COLLECTION
 list = []
 variable_name = [] # cmc.ini variable names
