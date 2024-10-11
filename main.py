@@ -1084,7 +1084,7 @@ settings_values2 = GeneralPage+NetworkPage+PanPage+TiltPage+HeightPage+TrackPage
 
 
 
-################################################################################### CMC V2 DATA
+#################################################################################### CMC V2 DATA
 print("CMC V2 SETTINGS")
 
 
