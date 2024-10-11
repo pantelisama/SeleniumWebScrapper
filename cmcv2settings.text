@@ -1,0 +1,450 @@
+Camera Number
+1
+Head Model
+18
+Height Model
+511
+Track Model
+None
+Allow Height Only
+0
+Control Camera/CCU
+0
+Control TRP100
+0
+Control SmartPed
+0
+Acceleration at Limit
+1.1
+Acceleration at Limit
+1
+Check Local/Remote
+1
+Delete Limit Files
+0
+Enable Display
+None
+Hand Controls Direct
+0
+Head Latency
+0
+Joystick Velocity
+20.0
+Limit Distance
+2000
+Limit Time Window
+0
+New Sequence Method
+1
+Positional Trim Smoothing
+0
+Relay Drive Mode
+1
+Sample Time
+2000
+Sequence Nth
+8
+Startup Delay
+8
+Toggle at Store
+0
+Z-Off Ratio
+10
+Zone Deadband
+50000
+Fader Multiplier
+1
+Logging Level
+0
+Output1 Momentary
+0
+Output2 Momentary
+0
+Output3 Momentary
+0
+Pan Retarget
+0
+Pan Retarget
+0
+Use Learn For Local/Remote
+0
+Record Travel
+0
+UDP Port1
+30002
+UDP Port2
+30003
+On Air Port
+30200
+On Air Output
+0
+Listen Port
+30001
+Private UDP Port
+30111
+Private Listen Port
+30101
+Service Interface Port
+0
+Camera Select Broadcast Port
+0
+IP Address
+192.1.0.131
+Gateway Address
+0.0.0.0
+Subnet Mask
+255.255.255.0
+Camera Select Interval
+1000
+Network Full Duplex
+1
+Network Speed
+100
+Filter Subnet
+0
+Robot Port
+5000
+U/S Seqence Control Port
+0
+TCP Log Server Port
+19999
+Pan Reverse
+0
+Pan Drive Invert
+0
+Pan High Limit
+195000
+Pan Low Limit
+12000
+Pan JS Medium
+60
+Pan JS Fine
+30
+Pan Multiplier
+100
+Derivative Time
+0
+Integration Limit
+0
+Accel Feed Forward
+0
+PID Loop KD
+100
+PID Loop KI
+0
+PID Loop KP
+20
+Velocity Feed Forward
+0
+Interpolation Factor
+200
+Maximum Acceleration
+17500
+Maximum Velocity
+17500
+Minimum Acceleration
+100
+Profile Submode
+1
+Tilt Reverse
+0
+Tilt Drive Invert
+0
+Tilt High Limit
+125000
+Tilt Low Limit
+80000
+Tilt JS Medium
+50
+Tilt JS Fine
+20
+Tilt Multiplier
+100
+Derivative Time
+0
+Integration Limit
+0
+Integration Limit
+0
+PID Loop KD
+100
+PID Loop KI
+0
+PID Loop KD
+100
+Velocity Feed Forward
+0
+Interpolation Factor
+200
+Interpolation Factor
+17500
+Maximum Velocity
+17500
+Minimum Acceleration
+100
+Profile Submode
+0
+Height High Limit
+6166145
+Height Low Limit
+6240737
+Height Low Limit
+5
+Height JS Fine
+5
+Height Multiplier
+1
+Transition Zone Limit
+1
+Zone Target Coordinates
+200000
+Stall Detect
+0
+Tacho Feedback
+0
+Derivative Time
+0
+Integration Limit
+0
+Accel Feed Forward
+0
+Accel Feed Forward
+0
+PID Loop KI
+0
+PID Loop KP
+4
+Velocity Feed Forward
+0
+Interpolation Factor
+200
+Maximum Acceleration
+15000
+Maximum Velocity
+15000
+Minimum Acceleration
+10
+Profile Submode
+0
+Track High Limit
+1000
+Track Low Limit
+1000
+Track Multiplier
+2
+Track Calibration Data File
+TrackCalData.csv
+Use Track Zones
+0
+Zone 1 High Limit
+1000000
+Zone 1 Low Limit
+1200000
+Zone 3 High Limit
+600000
+Zone 3 Low Limit
+900000
+Track Bumper
+0
+Bumper GPIO
+0
+Rail Safe direction
+0
+Rail Stop
+0
+Track Height Switch
+0
+Track Unsafe Speed
+100
+Track Collision Count
+-1
+TPB Direction Unsafe Speed
+100
+TPB On
+0
+TPB Other Device No
+-1
+TPB Safe direction
+0
+TPB Safe direction
+0
+TPB Freq when moving
+100
+TPB Port
+30115
+Serial Lens Protocol
+2
+Lens Serial Mode
+0
+Serial Lens Ext Option
+0
+Serial Lens Ext Option
+0
+Use Lens IF for Iris
+0
+Zoom CRCPS Slope
+1.0
+Set Focus Timeout
+30
+Set Focus Zoom Level
+0
+Lens Focus Direction
+1
+Focus Backlash Constant
+0
+Focus High Limit
+4095
+Focus Lo Limit
+0
+Focus Max Acceleration
+40000
+Focus Max Velocity
+40000
+Focus Min Acceleration
+1
+Focus Multiplier
+20
+Focus Start Position
+32767
+Lens Iris Direction
+1
+Iris Max Acceleration
+10000
+Iris Max Velocity
+12000
+Iris Min Acceleration
+150
+Iris Multiplier
+50
+Iris Start Position
+48000
+Local Focus Offset
+0.0
+Local Focus Scaling
+1.0
+Local Focus Time
+3.5
+Local Zoom Deadband
+50
+Local Zoom Range
+1.0
+Local Zoom Time
+3.5
+Lens Zoom Direction
+1
+Zoom Backlash Constant
+0
+Zoom High Limit
+98
+Zoom Lo Limit
+2
+Zoom Max Acceleration
+32000
+Zoom Max Velocity
+32000
+Zoom Min Acceleration
+1
+Zoom Multiplier
+20
+Zoom Start Position
+32768
+X Reverse
+0
+X High Limit
+0
+X Low Limit
+0
+X JS Medium
+50
+X JS Fine
+20
+Y Reverse
+0
+Y High Limit
+0
+Y Low Limit
+0
+Y JS Medium
+50
+Y JS Fine
+20
+Derivative Time
+0
+Velocity Feed Forward
+0
+Accel Feed Forward
+0
+PID Loop KD
+0
+PID Loop KI
+0
+PID Loop KP
+15
+Maximum Acceleration
+16297
+Maximum Velocity
+32595
+Minimum Acceleration
+163
+CIU Mode
+0
+CIU Poll (Switches)
+-2147450369
+CIU Ready Indicator
+1
+Camera ID
+1
+IP Address
+vd
+CIU Levels Mask
+65535
+CIU Switches Mask
+0
+CIU Port Number
+30300
+VR Data Protocol
+21
+VR Data Baud Rate
+38400
+VR Pan Encoder Range
+204800
+VR Pan Invert
+0
+VR Pan Offset
+162000
+VR Tilt Encoder Range
+204800
+VR Tilt Invert
+0
+VR Tilt Offset
+162000
+VR Height Encoder Range
+187000
+VR Height Invert
+0
+VR Height Offset
+0
+VR Height Total Movement
+10000
+VR Focus Invert
+0
+VR Focus Offset
+0
+VR Focus Scaling
+1
+VR Zoom Invert
+0
+VR Zoom Lens Calibration
+1
+VR Zoom Offset
+0
+VR Zoom Scaling
+1
+VR Zoom Coefficient QA
+0
+VR Zoom Coefficient QB
+1
+VR Zoom Coefficient QC
+0
+VR Zoom Scale Factor QS
+0
